@@ -1,5 +1,5 @@
 ## Hi, I’m Kapil 👋
-- 🌱 React Engineer Internship at Baaz, Bangaluru.
+- 🌱 React Engineer Internship at Baaz, Bengaluru.
 - 💞️ Reach me at kapil@baaz.live 💻.
 
 <!---
